@@ -1,6 +1,6 @@
 # UnifiedVisual: A Framework for Constructing Unified Vision-Language Datasets
 
-[![Paper](https://img.shields.io/badge/Paper-Preprint-blue.svg)](https://arxiv.org/abs/TBD)
+[![Paper](https://img.shields.io/badge/Paper-Preprint-blue.svg)](https://arxiv.org/abs/2509.14738)
 [![Dataset](https://img.shields.io/badge/Dataset-240K-green.svg)](https://huggingface.co/datasets/fnlp-vision/UnifiedVisual-240K)
 
 
@@ -81,12 +81,14 @@ UnifiedVisual builds a unified dataset that stimulates synergy between understan
 Please cite the paper if you use UnifiedVisual:
 
 ```bibtex
-@inproceedings{unifiedvisual-2025,
-  title     = {UnifiedVisual: A Framework for Constructing Unified Vision-Language Datasets},
-  author    = {TBD},
-  booktitle = {EMNLP},
-  year      = {2025},
-  note      = {Preprint. Code and data to be released.}
+@misc{wang2025unifiedvisualframeworkconstructingunified,
+      title={UnifiedVisual: A Framework for Constructing Unified Vision-Language Datasets}, 
+      author={Pengyu Wang and Shaojun Zhou and Chenkun Tan and Xinghao Wang and Wei Huang and Zhen Ye and Zhaowei Li and Botian Jiang and Dong Zhang and Xipeng Qiu},
+      year={2025},
+      eprint={2509.14738},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.14738}, 
 }
 ```
 
